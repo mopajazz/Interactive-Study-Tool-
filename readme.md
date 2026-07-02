@@ -1,4 +1,4 @@
-# Interactive Study Tool — Skill README
+# Interactive Study Tool 
 
 Generates a deployable, three-panel interactive study reference (Reference / Interactive / Drill) as a standalone static site: `index.html` + `style.css` + `data.js` + `app.js` + `vercel.json` + `README.md`. Zero-build, no frameworks, drag-and-drop or CLI deploy to Vercel.
 
